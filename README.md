@@ -16,7 +16,7 @@ Copy dist configs and fix your parameters if need
 
 Start composition of containers
 
-    docker-compose up -d
+    docker compose up -d
 
 Go to http://localhost and install the system.
 
